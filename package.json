@@ -1,0 +1,28 @@
+{
+  "name": "breakfall-intro",
+  "version": "0.0.0",
+  "description": "Introduction to Breakfall: Slides Deck",
+  "main": "index.html",
+  "dependencies": {
+    "reveal.js": "^2.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gundisalwa/breakfall-intro.git"
+  },
+  "keywords": [
+    "Breakfall",
+    "Aikido",
+    "Introduction"
+  ],
+  "author": "gundisalwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gundisalwa/breakfall-intro/issues"
+  },
+  "homepage": "http://breakfall-intro.paperplane.io"
+}
